@@ -17,4 +17,3 @@ import lombok.NoArgsConstructor;
         private int fechaPublicacion;
         private String autor;
     }
-}
