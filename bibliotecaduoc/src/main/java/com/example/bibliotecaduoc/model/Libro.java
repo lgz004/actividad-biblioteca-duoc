@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-public class Libro {
+
     @Data
     @AllArgsConstructor
     @NoArgsConstructor
